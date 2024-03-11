@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mythril:mythril_ingot"
+    },
+    {
+      "item": "mythril:mythril_ingot"
+    },
+    {
+      "item": "mythril:mythril_ingot"
+    },
+    {
+      "item": "mythril:mythril_ingot"
+    },
+    {
+      "item": "mythril:mythril_ingot"
+    },
+    {
+      "item": "mythril:mythril_ingot"
+    },
+    {
+      "item": "mythril:mythril_ingot"
+    },
+    {
+      "item": "mythril:mythril_ingot"
+    },
+    {
+      "item": "mythril:mythril_ingot"
+    }
+  ],
+  "result": {
+    "item": "mythril:mythril_block"
+  }
+}
