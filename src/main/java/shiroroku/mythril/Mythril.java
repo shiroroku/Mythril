@@ -15,6 +15,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 import shiroroku.mythril.Registries.BlockRegistry;
+import shiroroku.mythril.Registries.FeatureRegistry;
 import shiroroku.mythril.Registries.ItemRegistry;
 
 @Mod(Mythril.MODID)
@@ -36,6 +37,8 @@ public class Mythril {
         ItemRegistry.ITEMS.register(bus);
         ItemRegistry.ITEMS_GEN.register(bus);
         ItemRegistry.ITEMS_GEN_HANDHELD.register(bus);
+        FeatureRegistry.CONFIGURED_FEATURES.register(bus);
+        FeatureRegistry.PLACED_FEATURES.register(bus);
     }
 
 }
