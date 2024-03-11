@@ -24,7 +24,7 @@
                   }
                 }
               ],
-              "name": "minecraft:air"
+              "name": "mythril:mythril_ore_deepslate"
             },
             {
               "type": "minecraft:item",

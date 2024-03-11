@@ -1,7 +1,11 @@
 package shiroroku.mythril;
 
 import com.mojang.logging.LogUtils;
+import net.minecraft.sounds.SoundEvent;
+import net.minecraft.sounds.SoundEvents;
 import net.minecraft.tags.BlockTags;
+import net.minecraft.world.entity.EquipmentSlot;
+import net.minecraft.world.item.ArmorMaterial;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.crafting.Ingredient;
@@ -18,8 +22,6 @@ public class Mythril {
 
     public static final String MODID = "mythril";
     private static final Logger LOGGER = LogUtils.getLogger();
-
-    public static final ForgeTier MYTHRIL = new ForgeTier(2, 800, 7.0F, 2.5F, 20, BlockTags.NEEDS_IRON_TOOL, () -> Ingredient.of(ItemRegistry.mythril_ingot.get()));
 
     public static final CreativeModeTab CREATIVETAB = new CreativeModeTab(MODID) {
         @Override

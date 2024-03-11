@@ -1,7 +1,11 @@
-// 1.19.2	2024-03-10T21:17:25.22385153	Item Models: mythril
+// 1.19.2	2024-03-10T22:48:46.408937188	Item Models: mythril
 8c3daf2375a6fbcfe116f3d5ced0a61af8711dcf assets/mythril/models/item/mythril_axe.json
+c07b396971fa06ac8d749e36fa03050d2fabc004 assets/mythril/models/item/mythril_boots.json
+99985255a6176fa2496c7de2f79117af10a23445 assets/mythril/models/item/mythril_chestplate.json
+bea004f9ab2bf566d1229fe28c758030bc4fab7a assets/mythril/models/item/mythril_helmet.json
 837a4ace6bfb1fd3d2b9c7b89b46c85beb2b2d45 assets/mythril/models/item/mythril_hoe.json
 8a521d17c55e2fa78aeca8920292bcc1463df7e6 assets/mythril/models/item/mythril_ingot.json
+5ac9410aea0caf4d560e8013b492baaf754b9a1f assets/mythril/models/item/mythril_leggings.json
 87d66ba85884d8a934113dbd7a6fb813cf12d00f assets/mythril/models/item/mythril_nugget.json
 55224d78dae2d1aaffcaeacbd33ce181fdde2a86 assets/mythril/models/item/mythril_pickaxe.json
 624869bc58663eb6b6a1c4ce00fc2a427f3237fd assets/mythril/models/item/mythril_shovel.json

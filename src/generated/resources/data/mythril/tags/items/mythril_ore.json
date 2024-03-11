@@ -1,6 +1,6 @@
 {
   "values": [
-    "minecraft:air",
-    "minecraft:air"
+    "mythril:mythril_ore",
+    "mythril:mythril_ore_deepslate"
   ]
 }
