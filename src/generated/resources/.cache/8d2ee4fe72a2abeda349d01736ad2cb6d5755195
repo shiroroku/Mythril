@@ -1,4 +1,9 @@
-// 1.19.2	2024-03-10T21:03:55.242156291	Item Models: mythril
+// 1.19.2	2024-03-10T21:17:25.22385153	Item Models: mythril
+8c3daf2375a6fbcfe116f3d5ced0a61af8711dcf assets/mythril/models/item/mythril_axe.json
+837a4ace6bfb1fd3d2b9c7b89b46c85beb2b2d45 assets/mythril/models/item/mythril_hoe.json
 8a521d17c55e2fa78aeca8920292bcc1463df7e6 assets/mythril/models/item/mythril_ingot.json
 87d66ba85884d8a934113dbd7a6fb813cf12d00f assets/mythril/models/item/mythril_nugget.json
+55224d78dae2d1aaffcaeacbd33ce181fdde2a86 assets/mythril/models/item/mythril_pickaxe.json
+624869bc58663eb6b6a1c4ce00fc2a427f3237fd assets/mythril/models/item/mythril_shovel.json
+10a090dd779ea22d7c2e314c30bd442b6df192aa assets/mythril/models/item/mythril_sword.json
 6047c38af511dbd38768a927ecd9853f63d71b34 assets/mythril/models/item/raw_mythril.json
