@@ -1,0 +1,5 @@
+// 1.19.2	2024-03-10T21:54:37.698692324	Tags for minecraft:block
+bb6d0391bb02cb5ea4cef6d7f7cbca2bcded1c3a data/forge/tags/blocks/ores.json
+24dd57ec061d44cc28ac4afaa955b5268d465b50 data/minecraft/tags/blocks/mineable/pickaxe.json
+24dd57ec061d44cc28ac4afaa955b5268d465b50 data/minecraft/tags/blocks/needs_iron_tool.json
+4094406e627e922ccfbdb89035d22016c4cad3e2 data/mythril/tags/blocks/mythril_ore.json

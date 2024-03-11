@@ -1,0 +1,10 @@
+// 1.19.2	2024-03-10T21:54:37.697185416	Tags for minecraft:item
+462185346261f6d16e7b1280cfd4087d903ffc1e data/forge/tags/items/ingots.json
+2bf4b5839003c314d488a3b2d3b36d2409e67567 data/forge/tags/items/nuggets.json
+0706ce61da811907f6f62c25ad4754c1739ca8f9 data/forge/tags/items/raw_materials.json
+4be33c59b4bec53aaae93037d00694872ab42781 data/forge/tags/items/tools/axes.json
+a5fcc75d8c1ee097b5e53c5dc0e209a6573f83b5 data/forge/tags/items/tools/hoes.json
+4d5d9339c6de6cd0d2e30fa9f25d3722860a9924 data/forge/tags/items/tools/pickaxes.json
+faf3a94e583e5d65f5759cd89fae376c14e8b640 data/forge/tags/items/tools/shovels.json
+3879d39425527b773f4bd9728f59aa2064c39d1e data/forge/tags/items/tools/swords.json
+119505af436fca5784bb5847cefd09b10cd6aa62 data/mythril/tags/items/mythril_ore.json

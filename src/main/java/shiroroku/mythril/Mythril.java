@@ -10,6 +10,7 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
+import shiroroku.mythril.Registries.BlockRegistry;
 import shiroroku.mythril.Registries.ItemRegistry;
 
 @Mod(Mythril.MODID)
@@ -29,8 +30,10 @@ public class Mythril {
 
     public Mythril() {
         IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
+        BlockRegistry.BLOCKS.register(bus);
         ItemRegistry.ITEMS.register(bus);
-        ItemRegistry.ITEMS_HANDHELD.register(bus);
+        ItemRegistry.ITEMS_GEN.register(bus);
+        ItemRegistry.ITEMS_GEN_HANDHELD.register(bus);
     }
 
 }

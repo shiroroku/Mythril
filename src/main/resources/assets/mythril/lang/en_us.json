@@ -7,5 +7,8 @@
   "item.mythril.mythril_shovel": "Mythril Shovel",
   "item.mythril.mythril_sword": "Mythril Sword",
   "item.mythril.raw_mythril": "Raw Mythril",
+  "block.mythril.mythril_block": "Mythril Block",
+  "block.mythril.mythril_ore": "Mythril Ore",
+  "block.mythril.mythril_ore_deepslate": "Deepslate Mythril Ore",
   "itemGroup.mythril": "Mythril"
 }

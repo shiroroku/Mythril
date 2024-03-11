@@ -21,8 +21,8 @@ public class DataGenItems extends ItemModelProvider {
 
     @Override
     protected void registerModels() {
-        ItemRegistry.ITEMS.getEntries().stream().map(Supplier::get).forEach(this::basicItem);
-        ItemRegistry.ITEMS_HANDHELD.getEntries().stream().map(Supplier::get).forEach(this::basicItemHandheld);
+        ItemRegistry.ITEMS_GEN.getEntries().stream().map(Supplier::get).forEach(this::basicItem);
+        ItemRegistry.ITEMS_GEN_HANDHELD.getEntries().stream().map(Supplier::get).forEach(this::basicItemHandheld);
     }
 
     private void basicItemHandheld(Item item) {

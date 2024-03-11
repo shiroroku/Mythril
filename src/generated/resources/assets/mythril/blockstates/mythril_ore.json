@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mythril:block/mythril_ore"
+    }
+  }
+}

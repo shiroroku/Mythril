@@ -12,10 +12,10 @@ public class DataGen {
     @SubscribeEvent
     public static void onGatherData(GatherDataEvent event) {
         DataGenerator generator = event.getGenerator();
-        //generator.addProvider(event.includeClient(), new DataGenBlocks(generator, event.getExistingFileHelper()));
-       generator.addProvider(event.includeClient(), new DataGenItems(generator, event.getExistingFileHelper()));
-//        generator.addProvider(event.includeServer(), new DataGenItemsTags(generator, event.getExistingFileHelper()));
-//        generator.addProvider(event.includeServer(), new DataGenBlocksTags(generator, event.getExistingFileHelper()));
-//        generator.addProvider(event.includeServer(), new DataGenBlocksLoot(generator));
+        generator.addProvider(event.includeClient(), new DataGenBlocks(generator, event.getExistingFileHelper()));
+        generator.addProvider(event.includeClient(), new DataGenItems(generator, event.getExistingFileHelper()));
+        generator.addProvider(event.includeServer(), new DataGenItemsTags(generator, event.getExistingFileHelper()));
+        generator.addProvider(event.includeServer(), new DataGenBlocksTags(generator, event.getExistingFileHelper()));
+        generator.addProvider(event.includeServer(), new DataGenBlocksLoot(generator));
     }
 }
