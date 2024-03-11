@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredient": {
+    "item": "theaurorian:raw_mythril"
+  },
+  "result": "theaurorian:mythril_ingot"
+}
