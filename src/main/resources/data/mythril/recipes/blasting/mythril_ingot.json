@@ -3,7 +3,7 @@
   "cookingtime": 100,
   "experience": 1.0,
   "ingredient": {
-    "item": "theaurorian:raw_mythril"
+    "item": "mythril:raw_mythril"
   },
-  "result": "theaurorian:mythril_ingot"
+  "result": "mythril:mythril_ingot"
 }

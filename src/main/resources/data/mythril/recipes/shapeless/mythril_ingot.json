@@ -2,34 +2,34 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "theaurorian:mythril_nugget"
+      "item": "mythril:mythril_nugget"
     },
     {
-      "item": "theaurorian:mythril_nugget"
+      "item": "mythril:mythril_nugget"
     },
     {
-      "item": "theaurorian:mythril_nugget"
+      "item": "mythril:mythril_nugget"
     },
     {
-      "item": "theaurorian:mythril_nugget"
+      "item": "mythril:mythril_nugget"
     },
     {
-      "item": "theaurorian:mythril_nugget"
+      "item": "mythril:mythril_nugget"
     },
     {
-      "item": "theaurorian:mythril_nugget"
+      "item": "mythril:mythril_nugget"
     },
     {
-      "item": "theaurorian:mythril_nugget"
+      "item": "mythril:mythril_nugget"
     },
     {
-      "item": "theaurorian:mythril_nugget"
+      "item": "mythril:mythril_nugget"
     },
     {
-      "item": "theaurorian:mythril_nugget"
+      "item": "mythril:mythril_nugget"
     }
   ],
   "result": {
-    "item": "theaurorian:mythril_ingot"
+    "item": "mythril:mythril_ingot"
   }
 }
