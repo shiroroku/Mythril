@@ -1,4 +1,5 @@
-// 1.19.2	2024-03-10T22:48:46.409320209	LootTables
+// 1.19.2	2024-03-12T18:16:56.445102621	LootTables
 93ead43450d99efd6785ba1a708b130cf7ebca56 data/mythril/loot_tables/blocks/mythril_block.json
+532cd53e59cd93ad1ac10720c8dec91040f6e621 data/mythril/loot_tables/blocks/mythril_enchanting_table.json
 0c121e0190f4f1d8f74b4386da62806535a495da data/mythril/loot_tables/blocks/mythril_ore.json
 3be5abae82b3b19c3e40540d095e2931ded49a84 data/mythril/loot_tables/blocks/mythril_ore_deepslate.json

@@ -42,6 +42,7 @@ public class DataGenBlocksLoot extends LootTableProvider {
         @Override
         protected void addTables() {
             dropSelf(BlockRegistry.mythril_block.get());
+            dropSelf(BlockRegistry.mythril_enchanting_table.get());
             this.add(BlockRegistry.mythril_ore.get(), (block) -> createOreDrop(block, ItemRegistry.raw_mythril.get()));
             this.add(BlockRegistry.mythril_ore_deepslate.get(), (block) -> createOreDrop(block, ItemRegistry.raw_mythril.get()));
             // ! dont forget to add to function below too <3
@@ -51,6 +52,7 @@ public class DataGenBlocksLoot extends LootTableProvider {
         protected Iterable<Block> getKnownBlocks() {
             List<Block> gen = new ArrayList<>();
             gen.add(BlockRegistry.mythril_block.get());
+            gen.add(BlockRegistry.mythril_enchanting_table.get());
             gen.add(BlockRegistry.mythril_ore.get());
             gen.add(BlockRegistry.mythril_ore_deepslate.get());
             return gen;

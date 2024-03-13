@@ -14,5 +14,7 @@
   "block.mythril.mythril_block": "Mythril Block",
   "block.mythril.mythril_ore": "Mythril Ore",
   "block.mythril.mythril_ore_deepslate": "Deepslate Mythril Ore",
+  "block.mythril.mythril_enchanting_table": "Mythril Enchanting Table",
+  "block.mythril.mythril_enchanting_table.desc": "Early game enchanting, only has basic enchantments and does not support bookshelves.",
   "itemGroup.mythril": "Mythril"
 }

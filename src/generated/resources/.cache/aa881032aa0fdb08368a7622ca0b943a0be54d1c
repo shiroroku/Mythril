@@ -1,4 +1,4 @@
-// 1.19.2	2024-03-10T21:54:37.698364889	Block States: mythril
+// 1.19.2	2024-03-12T18:16:56.447252269	Block States: mythril
 b00f75124bdb24973caa4ca734c82f11af491949 assets/mythril/blockstates/mythril_block.json
 dfce4091d76870d4486d9bf7cf0ef9ba99c767f4 assets/mythril/blockstates/mythril_ore.json
 45f62ae7174314ea1322477a1ad7d0812996c256 assets/mythril/blockstates/mythril_ore_deepslate.json
@@ -6,5 +6,6 @@ ef8a2895d1a429ef9cd067c60287a0d6b89091fa assets/mythril/models/block/mythril_blo
 ad1af2609122b492b8d1fc11cd2e20d1cf19d2a1 assets/mythril/models/block/mythril_ore.json
 dd2d0674dcc02231779d4462ea81e9c100aed50f assets/mythril/models/block/mythril_ore_deepslate.json
 83bd8d0942be84b2373ecf862cb0f1b208e0558f assets/mythril/models/item/mythril_block.json
+31a8e04c920f8ea8a32d33b0b1482d97f7fc298f assets/mythril/models/item/mythril_enchanting_table.json
 1d7b6b2dd22d45ba2a8122e108a59118826d720d assets/mythril/models/item/mythril_ore.json
 570acdb5e4d993f469f2d3196f9fe1cd33938ea4 assets/mythril/models/item/mythril_ore_deepslate.json

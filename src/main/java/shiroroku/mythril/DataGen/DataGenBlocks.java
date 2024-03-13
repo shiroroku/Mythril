@@ -20,7 +20,8 @@ public class DataGenBlocks extends BlockStateProvider {
 
     @Override
     protected void registerStatesAndModels() {
-        BlockRegistry.BLOCKS.getEntries().stream().map(Supplier::get).forEach((block) -> {
+        BlockRegistry.BLOCKS.getEntries().stream().map(Supplier::get).forEach(this::simpleBlockItem);
+        BlockRegistry.BLOCKS_GEN.getEntries().stream().map(Supplier::get).forEach((block) -> {
             simpleBlock(block);
             simpleBlockItem(block);
         });

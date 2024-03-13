@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "MSM",
+    "SSS"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "S": {
+      "item": "minecraft:polished_deepslate"
+    },
+    "M": {
+      "item": "mythril:mythril_ingot"
+    }
+  },
+  "result": {
+    "item": "mythril:mythril_enchanting_table"
+  }
+}

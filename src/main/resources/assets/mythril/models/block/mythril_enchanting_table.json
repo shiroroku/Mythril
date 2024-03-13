@@ -1,0 +1,8 @@
+{   "parent": "block/enchanting_table",
+    "textures": {
+        "particle": "mythril:block/mythril_enchanting_table_bottom",
+        "bottom": "mythril:block/mythril_enchanting_table_bottom",
+        "top": "mythril:block/mythril_enchanting_table_top",
+        "side": "mythril:block/mythril_enchanting_table_side"
+    }
+}
