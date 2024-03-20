@@ -23,7 +23,7 @@ public class DataGenBlocksTags extends TagsProvider<Block> {
 
     @Override
     protected void addTags() {
-        this.tag(BlockTags.MINEABLE_WITH_PICKAXE).add(BlockRegistry.mythril_ore_deepslate.get(), BlockRegistry.mythril_ore.get(), BlockRegistry.mythril_block.get());
+        this.tag(BlockTags.MINEABLE_WITH_PICKAXE).add(BlockRegistry.mythril_ore_deepslate.get(), BlockRegistry.mythril_ore.get(), BlockRegistry.mythril_block.get(), BlockRegistry.mythril_enchanting_table.get());
         this.tag(BlockTags.NEEDS_IRON_TOOL).add(BlockRegistry.mythril_ore_deepslate.get(), BlockRegistry.mythril_ore.get(), BlockRegistry.mythril_block.get());
         this.tag(MYTHRIL_ORE).add(BlockRegistry.mythril_ore_deepslate.get(), BlockRegistry.mythril_ore.get());
         this.tag(Tags.Blocks.ORES).addTag(MYTHRIL_ORE);
